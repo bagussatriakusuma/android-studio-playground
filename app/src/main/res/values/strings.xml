@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Android Studio Playground</string>
     <string name="app_name_2">Nama Aplikasi</string>
+    <string name="text_notif">8</string>
+    <string name="text_title">Android Studio Playground 🚀</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="text_forgot_password">Forgot password?</string>
+    <string name="text_button_login">Login</string>
+    <string name="text_button_register">Register</string>
 </resources>
